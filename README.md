@@ -2,7 +2,9 @@
 
 - 🔥Estudando Desenvolvimento fullStack
 - 📒1º semestre de Engenharia de Software
-- 📒Curso One Bit Code
+- 📒Curso One Bit Code Full Stack Javascript
+- 📒Curso One Bit Code Black
+- 📒Curso One Bit Code Bootcamp
 - 📒Cursos da Udemy
 
 - 🏬 Atualmente trabalho como Assistente de E-commerce na Empório Alex, usando a plataforma VTEX e ERP Bling
