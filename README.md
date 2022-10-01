@@ -5,6 +5,7 @@
 - 📒Curso One Bit Code Full Stack Javascript
 - 📒Curso One Bit Code Black
 - 📒Curso One Bit Code Bootcamp
+- 📒Curso B7Web FullStack
 - 📒Cursos da Udemy
 
 - 🏬 Atualmente trabalho como Assistente de E-commerce na Empório Alex, usando a plataforma VTEX e ERP Bling
