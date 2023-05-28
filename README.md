@@ -1,10 +1,8 @@
 <h1>Olá, eu sou o Wigor Ribeiro Da Costa! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥Estudando Desenvolvimento fullStack
-- 📒2º semestre de Engenharia de Software
-- 📒Curso One Bit Code Full Stack Javascript
-- 📒Curso One Bit Code Black
-- 📒Curso One Bit Code Bootcamp
+- 🔥Estudando Desenvolvimento FullStack
+- 📒Curso One Bit Code Pro
+- 📒Profissão: Desenvolvedor FullStack Python
 - 📒Curso B7Web FullStack
 - 📒Cursos da Udemy
 
