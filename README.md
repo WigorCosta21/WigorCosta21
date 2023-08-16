@@ -31,7 +31,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <img width="500em" alt="WigorRibeiro21 stats" src = "https://github-readme-stats.vercel.app/api?username=WigorCosta21&show_icons=true&theme=dracula">
-<img width="500em" alt="WigorRibeiro21 Most Used Languages" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WigorCosta21&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+
+
+
 
 
 ## &nbsp;Social Links
