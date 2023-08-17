@@ -32,7 +32,7 @@
 
 <img width="500em" alt="WigorRibeiro21 stats" src = "https://github-readme-stats.vercel.app/api?username=WigorCosta21&show_icons=true&theme=dracula">
 
-
+<img  width="500em" alt="WigorRibeiro21 stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WigorCosta21&layout=compact&langs_count=7&theme=dracula" />
 
 
 
