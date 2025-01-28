@@ -2,7 +2,7 @@
 
 ## 👋 Olá, eu sou Wigor Ribeiro da Costa!
 
-Tenho 29 anos e sou apaixonado por desenvolvimento de software, em especial o desenvolvimento web, tanto no front-end quanto no back-end. Embora ainda não tenha experiência profissional formal, meu compromisso com o aprendizado contínuo e a resolução de desafios técnicos me impulsionam a crescer diariamente.
+Sou apaixonado por desenvolvimento de software, em especial o desenvolvimento web, tanto no front-end quanto no back-end. Embora ainda não tenha experiência profissional formal, meu compromisso com o aprendizado contínuo e a resolução de desafios técnicos me impulsionam a crescer diariamente.
 
 ## 📚 Em constante aprendizado
 
@@ -28,10 +28,7 @@ Estou em busca de oportunidades para colaborar em projetos desafiadores, onde eu
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 
 ### Back-end:
-![Python](https://img.shields.io/badge/-Python-232323?style=flat&labelColor=47A248&logo=python&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
-![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
