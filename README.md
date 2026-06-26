@@ -39,8 +39,6 @@ Atualmente trabalho com e-commerce (VTEX IO), além de desenvolver projetos pró
 | Projeto | O que é | Stack |
 |---------|---------|-------|
 | [Finance-App-Node](https://github.com/WigorCosta21/Finance-App-Node) | API REST financeira com clean architecture, JWT + refresh token e Swagger — [deploy](https://finance-app-node.onrender.com/api-docs) | TypeScript, Express, Prisma, PostgreSQL, Docker |
-| [devcontrole](https://github.com/WigorCosta21/devcontrole) | Sistema de chamados para gerenciar clientes e atendimentos | Next.js, TypeScript, Tailwind |
-| [efood](https://github.com/WigorCosta21/efood) | E-commerce de delivery de comida com carrinho e checkout | React, TypeScript, Styled Components |
 | [rocketlog](https://github.com/WigorCosta21/rocketlog) | Sistema de gerenciamento de entregas com controle de status | TypeScript, Node.js |
 | [API-Restaurant](https://github.com/WigorCosta21/API-Restaurant) | API REST para gerenciamento de restaurante | TypeScript, Node.js |
 | [Coffee-Delivery](https://github.com/WigorCosta21/Coffee-Delivery) | Loja virtual de cafés com gerenciamento de carrinho | React, TypeScript |
