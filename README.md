@@ -40,19 +40,11 @@ Atualmente trabalho com e-commerce (VTEX IO), além de desenvolver projetos pró
 |---------|---------|-------|
 | [Finance-App-Node](https://github.com/WigorCosta21/Finance-App-Node) | API REST financeira com clean architecture, JWT + refresh token e Swagger — [deploy](https://finance-app-node.onrender.com/api-docs) | TypeScript, Express, Prisma, PostgreSQL, Docker |
 | [rocketlog](https://github.com/WigorCosta21/rocketlog) | Sistema de gerenciamento de entregas com controle de status | TypeScript, Node.js |
+| [pizzaria-node-backend](https://github.com/WigorCosta21/pizzaria-node-backend) | API REST para gerenciamento de pizzaria | TypeScript, Express, Prisma, PostgreSQL |
 | [API-Restaurant](https://github.com/WigorCosta21/API-Restaurant) | API REST para gerenciamento de restaurante | TypeScript, Node.js |
 | [Coffee-Delivery](https://github.com/WigorCosta21/Coffee-Delivery) | Loja virtual de cafés com gerenciamento de carrinho | React, TypeScript |
 
 > 🔨 **Em breve:** `fsc-task-manager` (gerenciador de tarefas fullstack com React 19 + Vite + Tailwind v4)
-
----
-
-## Estatísticas
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=WigorCosta21&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WigorCosta21&layout=compact&langs_count=7&theme=dracula&hide_border=true" />
-</div>
 
 ---
 
